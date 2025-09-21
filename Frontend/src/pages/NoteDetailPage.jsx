@@ -51,7 +51,7 @@ const handleSave = async () => {
     }
 
     setSaving(true);
-
+ 
     try {
       await api.put(`/notes/${id}`,note);
       toast.success("Note Updated Successfully");

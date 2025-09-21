@@ -15,7 +15,8 @@
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "react-hot-toast": "^2.6.0",
-    "react-router": "^7.9.1"
+    "react-router": "^7.9.1",
+    "thinkboard": "file:.."
   },
   "devDependencies": {
     "@eslint/js": "^9.35.0",
